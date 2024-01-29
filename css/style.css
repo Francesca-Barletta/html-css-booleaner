@@ -9,8 +9,7 @@ body{
 }
 #logo{
     width: 200px;
-    padding-left: 30px;
-    padding-top: 30px;
+    padding: 30px;
 }
 .contenuto-principale{
     padding-left: 30px;
@@ -19,7 +18,14 @@ h1{
     font-size: 35px;
     margin-bottom: 0%;
 }
-.didascalia{
+.sottotitolo{
     margin: 0%;
     color:gray;
+}
+.didascalia{
+    margin: 0%;
+    font-size: 12px;
+}
+.evidenziatore{
+    background-color: yellow;
 }
