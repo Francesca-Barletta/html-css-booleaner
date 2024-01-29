@@ -1,0 +1,14 @@
+.intestazione{
+    width: 800px;
+    height: 100px;
+    background-image:url(../img/pattern.png);
+    background-size:50%;
+    background-repeat:initial;
+    background-color: rgb(94, 172, 255);
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 50px;
+    text-shadow:1px black;
+}
