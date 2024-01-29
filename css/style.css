@@ -4,7 +4,7 @@ body{
 .intestazione{
     background-image:url(../img/pattern.png);
     background-size:50%;
-    background-repeat:initial;
+    background-repeat: repeat-x;
     background-color: rgb(94, 172, 255);
 }
 #logo{
@@ -34,6 +34,7 @@ th{
     color: white;
     width: 2000px;
     text-align: left;
+    
 }
 .color{
     background-color:rgba(0, 225, 255, 0.698);
